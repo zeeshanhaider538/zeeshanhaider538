@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ZEESHAN HAIDER
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.Js | Python 
+- 🌱 I’m a MERN STACK DEVELOPER
 - 💞️ I’m looking to collaborate on  JavaScript
 - 📫 How to reach me https://www.linkedin.com/in/zeeshan-haider-/
 
